@@ -1,0 +1,20 @@
+# HTTP Cookie File for domains related to kaggle.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
+#
+.kaggle.com	TRUE	/	FALSE	1782572723	optimizelyEndUserId	oeu1467212723695r0.583633953829604
+.kaggle.com	TRUE	/	FALSE	1782988331	optimizelySegments	%7B%225684981785%22%3A%22false%22%2C%225646609362%22%3A%22direct%22%2C%225668443100%22%3A%22gc%22%7D
+.kaggle.com	TRUE	/	FALSE	1782988331	optimizelyBuckets	%7B%226323581014%22%3A%226313872192%22%7D
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_wid	22567980
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_slim	1467628334218
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_nv	true
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_ref	d
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_targlpu	https%3A%2F%2Fwww.kaggle.com%2F
+.kaggle.com	TRUE	/	FALSE	1499164334	__insp_targlpt	Kaggle%3A%20Your%20Home%20for%20Data%20Science
+.kaggle.com	TRUE	/	FALSE	1499164335	__insp_norec_sess	true
+.kaggle.com	TRUE	/	TRUE	1530700391	.ASPXAUTH	332991DD2721FE52EAC2B2184C6837E8EB268D2ABE3F726485B2F91347B6D1FFBF2E3F30E5FE15605A4C621AE9124EF2E37298B3AE3059CDDC7190A12022F6801135AF8E6DC07E1FC52A0F815525BB5922E5A76E
+.kaggle.com	TRUE	/	FALSE	1467729462	__utmt	1
+.kaggle.com	TRUE	/	FALSE	1530800876	__utma	158690720.36875440.1467119332.1467700033.1467728862.5
+.kaggle.com	TRUE	/	FALSE	1467730676	__utmb	158690720.3.10.1467728862
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1483496876	__utmz	158690720.1467119332.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
